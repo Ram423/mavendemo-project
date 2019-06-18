@@ -6,7 +6,7 @@
   <packaging>jar</packaging>
   <version>1.0</version>
   <name>mavendemo</name>
-  <url>http://maven.apache.org</url>
+  <url>http://maven.apache.org</url><!--Some Comments-->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
